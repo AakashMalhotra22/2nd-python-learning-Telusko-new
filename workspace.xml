@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/shona.py" line="3" />
+    <bookmark url="file://$PROJECT_DIR$/Application of duck typing.py" line="9" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01fb6f1d-7099-41b1-8216-271d82738473" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="new" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_Binary_operations_Number_system_conversion_in_python.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15_Debung.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/import random.py" />
+        <option value="$PROJECT_DIR$/application of random.py" />
+        <option value="$PROJECT_DIR$/chlo coding krte hn.py" />
+        <option value="$PROJECT_DIR$/37. Factorial of a number.py" />
+        <option value="$PROJECT_DIR$/40. Factorial using recurssion.py" />
+        <option value="$PROJECT_DIR$/1.Basics.py" />
+        <option value="$PROJECT_DIR$/f string.py" />
+        <option value="$PROJECT_DIR$/9.Operators.py" />
+        <option value="$PROJECT_DIR$/6.more on variables(Id location).py" />
+        <option value="$PROJECT_DIR$/7.Data types(part-I).py" />
+        <option value="$PROJECT_DIR$/10Binary operations .Number system conversion in python.py" />
+        <option value="$PROJECT_DIR$/19.for loops.py" />
+        <option value="$PROJECT_DIR$/20. Break, Continue and Pass.py" />
+        <option value="$PROJECT_DIR$/22. for else in python.py" />
+        <option value="$PROJECT_DIR$/23 Prime or not.py" />
+        <option value="$PROJECT_DIR$/fkjsdfsd.py" />
+        <option value="$PROJECT_DIR$/24. Array.py" />
+        <option value="$PROJECT_DIR$/34. Global keyword in python.py" />
+        <option value="$PROJECT_DIR$/36. Fibonacci Sequence.py" />
+        <option value="$PROJECT_DIR$/41. anonymous function, lambda.py" />
+        <option value="$PROJECT_DIR$/43.decorators.py" />
+        <option value="$PROJECT_DIR$/48. Class and object.py" />
+        <option value="$PROJECT_DIR$/decorators in class.py" />
+        <option value="$PROJECT_DIR$/my questions for python.py" />
+        <option value="$PROJECT_DIR$/python questions" />
+        <option value="$PROJECT_DIR$/50. Constructor and self.py" />
+        <option value="$PROJECT_DIR$/51. types of variables.py" />
+        <option value="$PROJECT_DIR$/53.Inner class.py" />
+        <option value="$PROJECT_DIR$/54. Inheritance.py" />
+        <option value="$PROJECT_DIR$/57.Duck typing.py" />
+        <option value="$PROJECT_DIR$/Application of duck typing.py" />
+        <option value="$PROJECT_DIR$/59. Operational Overloading.py" />
+        <option value="$PROJECT_DIR$/60. Method Overloading and Method overriding.py" />
+        <option value="$PROJECT_DIR$/61.Iterators.py" />
+        <option value="$PROJECT_DIR$/61.5 More examples of iterators.py" />
+        <option value="$PROJECT_DIR$/List Comprehension.py" />
+        <option value="$PROJECT_DIR$/62.Generators.py" />
+        <option value="$PROJECT_DIR$/64. Multi threading.py" />
+        <option value="$PROJECT_DIR$/67. Python Compiled or interpreted.py" />
+        <option value="$PROJECT_DIR$/Recurring elemen.py" />
+        <option value="$PROJECT_DIR$/practi.py" />
+        <option value="$PROJECT_DIR$/sys module.py" />
+        <option value="$PROJECT_DIR$/module sys.py" />
+        <option value="$PROJECT_DIR$/71. Selection Sort.py" />
+        <option value="$PROJECT_DIR$/Index_Slicing.py" />
+        <option value="$PROJECT_DIR$/String formatting.py" />
+        <option value="$PROJECT_DIR$/String_formatting_and_f-strings.py" />
+        <option value="$PROJECT_DIR$/None_type_and_calling_a_function.py" />
+        <option value="$PROJECT_DIR$/Dictionary.py" />
+        <option value="$PROJECT_DIR$/4.Tuples_and-sets.py" />
+        <option value="$PROJECT_DIR$/Notes of Python" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="78" />
+    <option name="y" value="161" />
+    <option name="width" value="1280" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1st python Learning, Common Complete it, Python in four hours" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.15_Debung">
+    <configuration name="10_Binary_operations_Number_system_conversion_in_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2nd python learning, Telusko new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Binary_operations_Number_system_conversion_in_python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15_Debung" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2nd python learning, Telusko new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_Debung.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="None_type_and_calling_a_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/None_type_and_calling_a_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="String_formatting_and_f-strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_formatting_and_f-strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="2nd python learning, Telusko new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="f string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/f string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="2nd python learning, Telusko new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="2nd python learning, Telusko new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="2nd python learning, Telusko new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.15_Debung" />
+        <item itemvalue="Python.10_Binary_operations_Number_system_conversion_in_python" />
+        <item itemvalue="Python.None_type_and_calling_a_function" />
+        <item itemvalue="Python.String_formatting_and_f-strings" />
+        <item itemvalue="Python.f string" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01fb6f1d-7099-41b1-8216-271d82738473" name="Default Changelist" comment="" />
+      <created>1569594320214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569594320214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" weight="0.32984293" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.22693452" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30882353" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32984293" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" weight="0.32984293" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22693452" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30882353" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32984293" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Printing Pattern.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/34. Global keyword in python.py" />
+    <entry file="file://$PROJECT_DIR$/43.decorators.py" />
+    <entry file="file://$PROJECT_DIR$/my questions for python.py" />
+    <entry file="file://$PROJECT_DIR$/decorators in class.py" />
+    <entry file="file://$PROJECT_DIR$/python questions" />
+    <entry file="file://$PROJECT_DIR$/51. types of variables.py" />
+    <entry file="file://$PROJECT_DIR$/52. Types of Methods.py" />
+    <entry file="file://$PROJECT_DIR$/53.Inner class.py" />
+    <entry file="file://$PROJECT_DIR$/54. Inheritance.py" />
+    <entry file="file://$PROJECT_DIR$/49. init__method.py" />
+    <entry file="file://$PROJECT_DIR$/48. Class and object.py" />
+    <entry file="file://$PROJECT_DIR$/60. Method Overloading and Method overriding.py" />
+    <entry file="file://$PROJECT_DIR$/57.Duck typing.py" />
+    <entry file="file://$PROJECT_DIR$/Application of duck typing.py" />
+    <entry file="file://$PROJECT_DIR$/59. Operational Overloading.py" />
+    <entry file="file://$PROJECT_DIR$/58. behind the scenes.py" />
+    <entry file="file://$PROJECT_DIR$/50. Constructor and self.py" />
+    <entry file="file://$PROJECT_DIR$/54.4 Multiple Inheritance.py" />
+    <entry file="file://$PROJECT_DIR$/55. Constructor in inheritance.py" />
+    <entry file="file://$PROJECT_DIR$/55.5 more.py" />
+    <entry file="file://$PROJECT_DIR$/8.range, dictionary(Datatype part-II).py" />
+    <entry file="file://$PROJECT_DIR$/18. While loop.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="858" column="8" selection-start-line="858" selection-start-column="8" selection-end-line="858" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/67. Python Compiled or interpreted.py" />
+    <entry file="file://$PROJECT_DIR$/63. Exception heading.py" />
+    <entry file="file://$PROJECT_DIR$/64. Multi threading.py" />
+    <entry file="file://$PROJECT_DIR$/65. File handling.py" />
+    <entry file="file://$PROJECT_DIR$/Recurring elemen.py" />
+    <entry file="file://$PROJECT_DIR$/practi.py" />
+    <entry file="file://$PROJECT_DIR$/kuch naya.py" />
+    <entry file="file://$PROJECT_DIR$/62.Generators.py" />
+    <entry file="file://$PROJECT_DIR$/import random.py" />
+    <entry file="file://$PROJECT_DIR$/application of random.py" />
+    <entry file="file://$PROJECT_DIR$/List Comprehension.py" />
+    <entry file="file://$PROJECT_DIR$/datetime modules.py" />
+    <entry file="file://$PROJECT_DIR$/sys module.py" />
+    <entry file="file://$PROJECT_DIR$/f string.py" />
+    <entry file="file://$PROJECT_DIR$/None_type_and_calling_a_function.py" />
+    <entry file="file://$PROJECT_DIR$/Dictionary.py" />
+    <entry file="file://$PROJECT_DIR$/String formatting.py" />
+    <entry file="file://$PROJECT_DIR$/String_formatting_and_f-strings.py" />
+    <entry file="file://$PROJECT_DIR$/Index_Slicing.py" />
+    <entry file="file://$PROJECT_DIR$/module sys.py" />
+    <entry file="file://$PROJECT_DIR$/71. Selection Sort.py" />
+    <entry file="file://$PROJECT_DIR$/61.5 More examples of iterators.py" />
+    <entry file="file://$PROJECT_DIR$/61.Iterators.py" />
+    <entry file="file://$PROJECT_DIR$/4.Tuples_and-sets.py" />
+    <entry file="file://$PROJECT_DIR$/Notes of Python" />
+    <entry file="file://$PROJECT_DIR$/0Q_python questions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Binary_operations_Number_system_conversion_in_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Debung.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
