@@ -1,0 +1,2 @@
+1. You are given with a module which takes 6 int elements from you, and returns a list containing same 6  elements. Now you have to make a function
+   which returns only even and greater than zero numbers from that list.
